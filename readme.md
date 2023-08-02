@@ -34,4 +34,7 @@ For those interested in deploying the contract on their personal computers, foll
 7. This process will allow you to successfully deploy and verify the contract's presence.
 # License
 The Degen Gaming Token contract is licensed under the MIT License. See the [`LICENSE`](LICENSE) file for more information.
+# Video WalkThrough
+
+https://www.loom.com/share/39d9683913324d858398a62273872b35?sid=6c83ac67-4142-44dd-9262-f8cf0fd2369a
    
